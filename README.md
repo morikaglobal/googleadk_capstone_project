@@ -2,6 +2,8 @@
 
 agent for a bakery that can capture basic customer info, greet the customer and works out item price with tax based on the purchase type
 
+https://github.com/morikaglobal/googleadk_capstone_project/blob/main/calculation_agent_for_bakery_store.ipynb
+
 Problem Statement --
 In Japan where I live, it is often confusing to work out the total price of item in bakery shops as different consumption tax rate is applied based on your purchase type of whether you eat in (consumption tax rate is 10%) or take items home (consumption tax rate is 8%).
 
